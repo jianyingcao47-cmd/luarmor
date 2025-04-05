@@ -35,6 +35,9 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/bce5241ec70323
 elseif game.PlaceId == 3351674303 then --diving empire
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1fdc5e92eec9c5b02c8635df4f365a75.lua"))()
 
+elseif game.PlaceId == 13621938427 then --untitled boxing
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c4fe1e0b584949739e7c98ea98e0180b.lua"))()
+
 elseif creator == 11867394 then --dead rails
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/049986471e716d7e1960bb897309b8f1.lua"))()
 
